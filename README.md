@@ -1,5 +1,5 @@
 # trello-report
-1. Export data to JSON [Help](http://help.trello.com/article/747-exporting-data-from-trello-1)
+1. Generate API Key and Token [Help](https://trello.com/app-key)
 2. `node index.js myInitial`
     * `myInitial` - initials from trello, for example John Deep - JD
 
